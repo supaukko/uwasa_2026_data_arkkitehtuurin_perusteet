@@ -1,0 +1,1 @@
+# uwasa_2026_data_arkkitehtuurin_perusteet
