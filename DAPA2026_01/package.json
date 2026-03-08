@@ -6,9 +6,10 @@
   "author": "",
   "type": "module",
   "scripts": {
-    "h1": "node src/kappale01/h1.js",
-    "h2": "node src/kappale01/h2.js",
-    "h3": "node src/kappale01/h3.js"
+    "k1_h1": "node src/kappale01/h1.js",
+    "k1_h2": "node src/kappale01/h2.js",
+    "k1_h3": "node src/kappale01/h3.js",
+    "k2_h1": "node src/kappale02/h1.js"
   },
   "dependencies": {
     "@faker-js/faker": "^10.3.0"
