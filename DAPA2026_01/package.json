@@ -1,0 +1,16 @@
+{
+  "name": "dapa2026_01",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "h1": "node src/kappale01/h1.js",
+    "h2": "node src/kappale01/h2.js",
+    "h3": "node src/kappale01/h3.js"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0"
+  }
+}
