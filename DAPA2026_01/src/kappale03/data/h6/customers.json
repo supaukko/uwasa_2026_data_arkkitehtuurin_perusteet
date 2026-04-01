@@ -1,0 +1,82 @@
+[
+  {
+    "firstName": "Anneli",
+    "lastName": "Virtanen",
+    "address": "Pohjantie 3",
+    "zip_code": "00563",
+    "city": "Himanka",
+    "telephone": "123 456",
+    "customer_sales": 35987,
+    "number_of_orders": 120
+  },
+  {
+    "firstName": "Mikko",
+    "lastName": "Korhonen",
+    "address": "Koivukuja 12",
+    "zip_code": "33100",
+    "city": "Tampere",
+    "telephone": "040 1234567",
+    "customer_sales": 18200,
+    "number_of_orders": 45
+  },
+  {
+    "firstName": "Laura",
+    "lastName": "Mäkinen",
+    "address": "Satamakatu 8",
+    "zip_code": "20100",
+    "city": "Turku",
+    "telephone": "050 7654321",
+    "customer_sales": 42150,
+    "number_of_orders": 98
+  },
+  {
+    "firstName": "Jari",
+    "lastName": "Nieminen",
+    "address": "Koulutie 5",
+    "zip_code": "90100",
+    "city": "Oulu",
+    "telephone": "045 9876543",
+    "customer_sales": 9500,
+    "number_of_orders": 27
+  },
+  {
+    "firstName": "Sari",
+    "lastName": "Heikkinen",
+    "address": "Metsäpolku 14",
+    "zip_code": "70200",
+    "city": "Kuopio",
+    "telephone": "044 2233445",
+    "customer_sales": 27300,
+    "number_of_orders": 63
+  },
+  {
+    "firstName": "Pekka",
+    "lastName": "Lahtinen",
+    "address": "Rantatie 22",
+    "zip_code": "15140",
+    "city": "Lahti",
+    "telephone": "041 5566778",
+    "customer_sales": 38800,
+    "number_of_orders": 110
+  },
+  {
+    "firstName": "Tiina",
+    "lastName": "Salonen",
+    "address": "Keskuskatu 3",
+    "zip_code": "40100",
+    "city": "Jyväskylä",
+    "telephone": "050 1122334",
+    "customer_sales": 16750,
+    "number_of_orders": 39
+  },
+  {
+    "firstName": "Antti",
+    "lastName": "Hämäläinen",
+    "address": "Peltotie 7",
+    "zip_code": "87100",
+    "city": "Kajaani",
+    "telephone": "040 9988776",
+    "customer_sales": 22100,
+    "number_of_orders": 58
+  }
+]

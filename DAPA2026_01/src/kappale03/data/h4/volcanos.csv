@@ -1,0 +1,9 @@
+year;month;day;volcanoname;location;country;latitude;longitude;elevation;type;vei;deaths
+1757;7;9;Sao Jorge;Azores;Portugal;38.65;-28.08;1053;Fissure vent;0;
+1784;;;Hualalai;Hawaiian Is;United States;19.692;-155.87;2523;Shield volcano;0;
+1800;;;Hualalai;Hawaiian Is;United States;19.692;-155.87;2523;Shield volcano;10;2
+0;2;;Kilauea;Hawaiian Is;United States;19.421;-155.287;1222;Shield volcano;10;
+1840;5;30;Kilauea;Hawaiian Is;United States;19.421;-155.287;1222;Shield volcano;0;
+1843;2;8;Liamuiga;W Indies;St. Kitts & Nevis;17.37;-62.8;1156;Stratovolcano;0;
+1853;6;24;Niuafo'ou;Tonga-SW Pacific;Tonga;-15.6;-175.63;260;Shield volcano;0;25
+1875;1;29;Kelud;Java;Indonesia;-7.935;112.314;1730;Stratovolcano;0;

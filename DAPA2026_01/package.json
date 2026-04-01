@@ -9,7 +9,14 @@
     "k1_h1": "node src/kappale01/h1.js",
     "k1_h2": "node src/kappale01/h2.js",
     "k1_h3": "node src/kappale01/h3.js",
-    "k2_h1": "node src/kappale02/h1.js"
+    "k2_h1": "node src/kappale02/h1.js",
+    "k3_h1": "node src/kappale03/h1.js",
+    "k3_h2": "node src/kappale03/h2.js",
+    "k3_h3": "node src/kappale03/h3.js",
+    "k3_h4": "node src/kappale03/h4.js",
+    "k3_h5": "node src/kappale03/h5.js",
+    "k3_h6": "node src/kappale03/h6.js",
+    "k3_h7": "node src/kappale03/h7.js"
   },
   "dependencies": {
     "@faker-js/faker": "^10.3.0"

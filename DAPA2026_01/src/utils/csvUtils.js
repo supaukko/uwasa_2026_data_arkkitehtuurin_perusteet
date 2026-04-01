@@ -20,3 +20,25 @@ export const objectsToCSV = (objects, delimiter = ",", includeHeader = false) =>
 
   return [header, ...rows].join("\n");
 };
+
+export const csvToObjects = (csv, delimiter = ';') => {
+    try {
+        const rows = csv.split(/\r?\n/)
+        const [headerRow, ...dataRows] = rows
+
+        const headers = headerRow.split(delimiter).map(item => item.toLowerCase().trim())
+        return dataRows.map(row => {
+            const items = row.split(delimiter).map(item => item.trim())
+            const obj = {}
+
+            headers.forEach((header, idx) => {
+                obj[header] = items[idx] ?? ""
+            });
+            return obj
+            // return JSON.stringify(obj);
+        })
+    } catch (error) {
+        console.error('Error parsing CSV:', error)
+        throw error
+    }
+}

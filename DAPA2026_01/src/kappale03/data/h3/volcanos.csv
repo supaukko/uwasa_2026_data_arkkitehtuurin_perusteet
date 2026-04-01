@@ -1,0 +1,13 @@
+volcano_number;volcano_name;primary_volcano_type;last_eruption_year;country;region;subregion;latitude;longitude;elevation;tectonic_settings;evidence_category;major_rock_1;population_within_5_km
+283001;Abu;Shield(s);-6850;Japan;Japan, Taiwan, Marianas;Honshu;34.5;131.6;641;Subduction zone / Continental crust (>25 km);Eruption Dated;Andesite / Basaltic Andesite;3597
+355096;Acamarachi;Stratovolcano;Unknown;Chile;South America;Northern Chile, Bolivia and Argentina;-23.292;-67.618;6023;Subduction zone / Continental crust (>25 km);Evidence Credible;Dacite;0
+342980;Acatenango;Stratovolcano(es);1972;Guatemala;Mexico and Central America;Guatemala;14.501;-90.876;3976;Subduction zone / Continental crust (>25 km);Eruption Observed;Andesite / Basaltic Andesite;4329
+213004;Acigol-Nevsehir;Caldera;-2080;Turkey;Mediterranean and Western Asia;Turkey;38.537;34.621;1683;Intraplate / Continental crust (>25 km);Eruption Dated;Rhyolite;127863
+321040;Adams;Stratovolcano;950;United States;Canada and Western USA;USA (Washington);46.206;-121.49;3742;Subduction zone / Continental crust (>25 km);Eruption Dated;Andesite / Basaltic Andesite;0
+283170;Adatarayama;Stratovolcano(es);1996;Japan;Japan, Taiwan, Marianas;Honshu;37.647;140.281;1728;Subduction zone / Continental crust (>25 km);Eruption Observed;Andesite / Basaltic Andesite;428
+221170;Adwa;Stratovolcano;Unknown;Ethiopia;Africa and Red Sea;Africa (northeastern) and Red Sea;10.07;40.84;1733;Rift zone / Intermediate crust (15–25 km);Evidence Credible;Rhyolite;101
+221110;Afdera;Stratovolcano;Unknown;Ethiopia;Africa and Red Sea;Africa (northeastern) and Red Sea;13.088;40.853;1250;Rift zone / Intermediate crust (15–25 km);Evidence Uncertain;Rhyolite;51
+284160;Agrihan;Stratovolcano;1917;United States;Japan, Taiwan, Marianas;Izu, Volcano, and Mariana Islands;18.77;145.67;965;Subduction zone / Crustal thickness unknown;Eruption Observed;Basalt / Picro-Basalt;0
+342100;Agua;Stratovolcano;Unknown;Guatemala;Mexico and Central America;Guatemala;14.465;-90.743;3760;Subduction zone / Continental crust (>25 km);Evidence Credible;Andesite / Basaltic Andesite;9890
+382090;Aguda de Pau;Stratovolcano;1564;Portugal;Atlantic Ocean;Azores;37.77;-25.47;947;Rift zone / Oceanic crust (<15 km);Eruption Observed;Trachyte / Trachydacite;406
+358062;Aguilera;Stratovolcano;-1250;Chile;South America;Southern Chile and Argentina;-50.33;-73.75;2546;Subduction zone / Continental crust (>25 km);Eruption Dated;Dacite;0

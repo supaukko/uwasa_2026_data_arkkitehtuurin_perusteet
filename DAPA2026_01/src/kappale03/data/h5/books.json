@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Hitting the line",
+    "series": "The Chronicles of Narnia",
+    "genre": "Mythology",
+    "format": "Paperback",
+    "author": "Verner Bailey",
+    "publisher": "City Lights Publishers",
+    "publishYear": 1899,
+    "price": "16.58"
+  },
+  {
+    "id": 2,
+    "title": "Freakonomics",
+    "series": "Hercule Poirot",
+    "genre": "Historical Fiction",
+    "format": "Ebook",
+    "author": "Coralie Corkery",
+    "publisher": "Flame Tree Publishing",
+    "publishYear": 1869,
+    "price": "25.48"
+  },
+  {
+    "id": 3,
+    "title": "The Pickwick Papers",
+    "series": "The Dark Tower",
+    "genre": "Children's Literature",
+    "format": "Ebook",
+    "author": "Antone Weissnat",
+    "publisher": "Reed Publishing",
+    "publishYear": 1917,
+    "price": "31.36"
+  },
+  {
+    "id": 4,
+    "title": "Gulliver's Travels",
+    "series": "Little Women",
+    "genre": "Biography",
+    "format": "Audiobook",
+    "author": "Maymie Leannon",
+    "publisher": "Libertas Academica",
+    "publishYear": 1838,
+    "price": "62.06"
+  },
+  {
+    "id": 5,
+    "title": "The Fountainhead",
+    "series": "The Infinity Cycle",
+    "genre": "Young Adult",
+    "format": "Paperback",
+    "author": "Arnulfo D'Amore",
+    "publisher": "Hodder Headline",
+    "publishYear": 1988,
+    "price": "104.50"
+  },
+  {
+    "id": 6,
+    "title": "L.A. Confidential",
+    "series": "Little Women",
+    "genre": "Business",
+    "format": "Audiobook",
+    "author": "Ottis Gleichner",
+    "publisher": "Harvill Press at Random House",
+    "publishYear": 1984,
+    "price": "34.50"
+  },
+  {
+    "id": 7,
+    "title": "My Life",
+    "series": "The Eighth Life",
+    "genre": "Philosophy",
+    "format": "Paperback",
+    "author": "Narciso Rippin",
+    "publisher": "Tartarus Press",
+    "publishYear": 1832,
+    "price": "88.98"
+  },
+  {
+    "id": 8,
+    "title": "The Great Gatsby",
+    "series": "War and Peace",
+    "genre": "Comedy",
+    "format": "Audiobook",
+    "author": "Maye Powlowski",
+    "publisher": "Peace Hill Press",
+    "publishYear": 2003,
+    "price": "34.41"
+  },
+  {
+    "id": 9,
+    "title": "Dr. Zhivago",
+    "series": "The Dark Tower",
+    "genre": "Thriller",
+    "format": "Ebook",
+    "author": "Coleman Price",
+    "publisher": "Pantheon Books at Random House",
+    "publishYear": 1990,
+    "price": "113.67"
+  },
+  {
+    "id": 10,
+    "title": "The Corrections",
+    "series": "The Hitchhiker's Guide to the Galaxy",
+    "genre": "Romance",
+    "format": "Hardcover",
+    "author": "Diego Glover",
+    "publisher": "Gefen Publishing House",
+    "publishYear": 1923,
+    "price": "91.92"
+  }
+]
