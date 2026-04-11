@@ -1,3 +1,13 @@
+# Harjoitus 5
+
+Opit ymmärtämään: Datasettien vastaavuuksien tyyppejä ja datan kohdistamista, etsimään vastaavuuksia dataseteistä
+
+Opit tekemään: Yhdistämään dataa vaiheissa useasta skeemasta, johtamaan uusia sarakkeita laskennallisesti tuloksena olevaan
+datasettiin, laskemaan kahden GPS-koordinaatin välimatkan, laskemaan kahden ajankohdan erotuksen
+
+Kertausta: datan muuntaminen ja suodatus
+
+
 # XML skeemavalidointi Pythonilla
 
 Hakemistot:

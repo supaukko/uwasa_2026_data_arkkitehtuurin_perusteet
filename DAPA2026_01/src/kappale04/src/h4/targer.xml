@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Invoice>
+	<Customer>
+		<Firstname>Minna</Firstname>
+		<Lastname>Talvinen</Lastname>
+		<StreetAddress>Talvitie 23</StreetAddress>
+	</Customer>
+	<InvoiceRows>
+		<Product>
+			<ProductName>Mäntylä Munkkipossu</ProductName>
+			<TotalPrice>27.00</TotalPrice>
+			<Currency>EUR</Currency>
+		</Product>
+		<Product>
+			<ProductName>Priima Oy Margariini</ProductName>
+			<TotalPrice>30.00</TotalPrice>
+			<Currency>EUR</Currency>
+		</Product>
+		<Product>
+			<ProductName>Kokkaan Oy Korvapuusti</ProductName>
+			<TotalPrice>65.00</TotalPrice>
+			<Currency>EUR</Currency>
+		</Product>
+	</InvoiceRows>
+</Invoice>

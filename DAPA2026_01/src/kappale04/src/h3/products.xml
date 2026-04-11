@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products>
+    <Product>
+        <product_name>Wireless Mouse</product_name>
+        <price>99.99</price>
+        <unit>EUR</unit>
+        <ean>12345678</ean>
+    </Product>
+
+    <Product>
+        <product_name>Keyboard</product_name>
+        <price>49.50</price>
+        <unit>USD</unit>
+        <ean>87654321</ean>
+    </Product>
+
+    <Product>
+        <product_name>External Hard Drive</product_name>
+        <price>99.00</price>
+        <unit>EUR</unit>
+        <ean>87654322</ean>
+    </Product>
+</Products>

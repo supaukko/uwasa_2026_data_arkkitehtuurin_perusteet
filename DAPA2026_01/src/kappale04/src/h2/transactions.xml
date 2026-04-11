@@ -1,0 +1,12 @@
+<Transactions>
+  <Transaction>
+    <transactionDate>2026-04-11</transactionDate>
+    <fromAccount>FI1234567890123456</fromAccount>
+    <toAccount>FI1234567890123457</toAccount>
+    <amount>99.95</amount>
+    <unit>EUR</unit>
+    <recipientName>Foobar Oy</recipientName>
+    <referenceNumber>RF1234567890123456</referenceNumber>
+    <message>Lasku</message>
+  </Transaction>
+</Transactions>

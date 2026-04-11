@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sales>
+	<SalesEvent>
+		<Customer>
+			<Firstname>Minna</Firstname>
+			<Lastname>Talvinen</Lastname>
+			<Street>Talvitie</Street>
+			<HouseNumber>23</HouseNumber>
+		</Customer>
+		<Products>
+			<Product>
+				<Name>Munkkipossu</Name>
+				<Vendor>Mäntylä</Vendor>
+				<Price>0.90</Price>
+				<Currency>EUR</Currency>
+				<Quantity>30</Quantity>
+				<SalesDate>10.11.2024</SalesDate>
+			</Product>
+			<Product>
+				<Name>Margariini</Name>
+				<Vendor>Priima Oy</Vendor>
+				<Price>3.00</Price>
+				<Currency>EUR</Currency>
+				<Quantity>10</Quantity>
+				<SalesDate>11.11.2024</SalesDate>
+			</Product>
+			<Product>
+				<Name>Korvapuusti</Name>
+				<Vendor>Kokkaan Oy</Vendor>
+				<Price>1.30</Price>
+				<Currency>EUR</Currency>
+				<Quantity>50</Quantity>
+				<SalesDate>11.12.2024</SalesDate>
+			</Product>
+		</Products>
+	</SalesEvent>
+</Sales>
