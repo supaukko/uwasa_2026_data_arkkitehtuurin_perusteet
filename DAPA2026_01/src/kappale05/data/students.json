@@ -1,0 +1,10 @@
+[
+  {
+    "firstName": "Matti",
+    "lastName": "Virtanen",
+    "birthDate": "1998-04-12",
+    "major": "Computer Science",
+    "latitude": 60.1699,
+    "longitude": 24.9384
+  }
+]

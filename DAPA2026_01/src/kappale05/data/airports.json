@@ -1,0 +1,52 @@
+[
+  {
+    "code": "HEL",
+    "name": "Helsinki-Vantaa",
+    "country": "Finland"
+  },
+  {
+    "code": "ARN",
+    "name": "Stockholm Arlanda",
+    "country": "Sweden"
+  },
+  {
+    "code": "CPH",
+    "name": "Copenhagen Airport",
+    "country": "Denmark"
+  },
+  {
+    "code": "LHR",
+    "name": "London Heathrow",
+    "country": "United Kingdom"
+  },
+  {
+    "code": "FRA",
+    "name": "Frankfurt Airport",
+    "country": "Germany"
+  },
+  {
+    "code": "AMS",
+    "name": "Amsterdam Schiphol",
+    "country": "Netherlands"
+  },
+  {
+    "code": "CDG",
+    "name": "Charles de Gaulle",
+    "country": "France"
+  },
+  {
+    "code": "MAD",
+    "name": "Adolfo Suárez Madrid-Barajas",
+    "country": "Spain"
+  },
+  {
+    "code": "BCN",
+    "name": "Barcelona El Prat",
+    "country": "Spain"
+  },
+  {
+    "code": "OSL",
+    "name": "Oslo Gardermoen",
+    "country": "Norway"
+  }
+]

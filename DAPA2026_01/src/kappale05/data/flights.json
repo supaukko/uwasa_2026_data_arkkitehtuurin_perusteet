@@ -1,0 +1,52 @@
+[
+  {
+    "flightNumber": "AY101",
+    "from": "HEL",
+    "departureTime": "2025-03-21T09:45:00Z"
+  },
+  {
+    "flightNumber": "AY102",
+    "from": "ARN",
+    "departureTime": "2025-03-21T12:15:00Z"
+  },
+  {
+    "flightNumber": "AY103",
+    "from": "CPH",
+    "departureTime": "2025-03-21T14:30:00Z"
+  },
+  {
+    "flightNumber": "AY104",
+    "from": "LHR",
+    "departureTime": "2025-03-21T16:05:00Z"
+  },
+  {
+    "flightNumber": "AY105",
+    "from": "FRA",
+    "departureTime": "2025-03-21T18:20:00Z"
+  },
+  {
+    "flightNumber": "AY106",
+    "from": "AMS",
+    "departureTime": "2025-03-21T20:10:00Z"
+  },
+  {
+    "flightNumber": "AY107",
+    "from": "CDG",
+    "departureTime": "2025-03-22T06:50:00Z"
+  },
+  {
+    "flightNumber": "AY108",
+    "from": "MAD",
+    "departureTime": "2025-03-22T08:25:00Z"
+  },
+  {
+    "flightNumber": "AY109",
+    "from": "BCN",
+    "departureTime": "2025-03-22T11:40:00Z"
+  },
+  {
+    "flightNumber": "AY110",
+    "from": "OSL",
+    "departureTime": "2025-03-22T13:55:00Z"
+  }
+]

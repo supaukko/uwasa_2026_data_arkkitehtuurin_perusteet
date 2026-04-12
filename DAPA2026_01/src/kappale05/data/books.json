@@ -1,0 +1,242 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "publish_year": 1960
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "publish_year": 1949
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "isbn": "9780141439518",
+        "publish_year": 1813
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "publish_year": 1925
+    },
+    {
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "isbn": "9780142437247",
+        "publish_year": 1851
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "isbn": "9781400079988",
+        "publish_year": 1869
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "isbn": "9780316769488",
+        "publish_year": 1951
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780547928227",
+        "publish_year": 1937
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "9780140449136",
+        "publish_year": 1866
+    },
+    {
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "isbn": "9780141441146",
+        "publish_year": 1847
+    },
+    {
+        "title": "The Odyssey",
+        "author": "Homer",
+        "isbn": "9780140268867",
+        "publish_year": -800
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "isbn": "9780060850524",
+        "publish_year": 1932
+    },
+    {
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "isbn": "9780451419439",
+        "publish_year": 1862
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "isbn": "9780140448955",
+        "publish_year": 1320
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "isbn": "9780374528379",
+        "publish_year": 1880
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "isbn": "9780143035008",
+        "publish_year": 1878
+    },
+    {
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "isbn": "9780060934347",
+        "publish_year": 1615
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "isbn": "9780141439556",
+        "publish_year": 1847
+    },
+    {
+        "title": "Frankenstein",
+        "author": "Mary Shelley",
+        "isbn": "9780486282114",
+        "publish_year": 1818
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "isbn": "9780060883287",
+        "publish_year": 1967
+    },
+    {
+        "title": "The Iliad",
+        "author": "Homer",
+        "isbn": "9780140275360",
+        "publish_year": -750
+    },
+    {
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "isbn": "9780141439600",
+        "publish_year": 1859
+    },
+    {
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "isbn": "9780141439570",
+        "publish_year": 1890
+    },
+    {
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "isbn": "9780486411095",
+        "publish_year": 1897
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "author": "John Steinbeck",
+        "isbn": "9780143039433",
+        "publish_year": 1939
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "isbn": "9780679720201",
+        "publish_year": 1942
+    },
+    {
+        "title": "Slaughterhouse-Five",
+        "author": "Kurt Vonnegut",
+        "isbn": "9780385333849",
+        "publish_year": 1969
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "isbn": "9780679723165",
+        "publish_year": 1955
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "isbn": "9781400033416",
+        "publish_year": 1987
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "isbn": "9780141439549",
+        "publish_year": 1871
+    },
+    {
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "isbn": "9780141441672",
+        "publish_year": 1899
+    },
+    {
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "isbn": "9781451673319",
+        "publish_year": 1953
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "isbn": "9780199535675",
+        "publish_year": 1922
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "isbn": "9780679732242",
+        "publish_year": 1929
+    },
+    {
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "isbn": "9781451626650",
+        "publish_year": 1961
+    },
+    {
+        "title": "Of Mice and Men",
+        "author": "John Steinbeck",
+        "isbn": "9780140177398",
+        "publish_year": 1937
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "isbn": "9780684801223",
+        "publish_year": 1952
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "isbn": "9780486290300",
+        "publish_year": 1915
+    },
+    {
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "isbn": "9781594631931",
+        "publish_year": 2003
+    },
+    {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "isbn": "9780590353427",
+        "publish_year": 1997
+    }
+]

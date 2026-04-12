@@ -1,0 +1,122 @@
+[
+    {
+        "product_category": "book",
+        "name": "To Kill a Mockingbird",
+        "price": 10.99,
+        "isbnNumber": "9780061120084",
+        "ean": "9780061120084",
+        "vendor": "HarperCollins"
+    },
+    {
+        "product_category": "book",
+        "name": "1984",
+        "price": 8.99,
+        "isbnNumber": "9780451524935",
+        "ean": "9780451524935",
+        "vendor": "Penguin Books"
+    },
+    {
+        "product_category": "book",
+        "name": "Pride and Prejudice",
+        "price": 12.5,
+        "isbnNumber": "9780141439518",
+        "ean": "9780141439518",
+        "vendor": "Penguin Classics"
+    },
+    {
+        "product_category": "book",
+        "name": "The Great Gatsby",
+        "price": 9.99,
+        "isbnNumber": "9780743273565",
+        "ean": "9780743273565",
+        "vendor": "Scribner"
+    },
+    {
+        "product_category": "book",
+        "name": "Moby-Dick",
+        "price": 11.49,
+        "isbnNumber": "9780142437247",
+        "ean": "9780142437247",
+        "vendor": "Penguin Books"
+    },
+    {
+        "product_category": "notebooks",
+        "name": "Spiral Notebook A4",
+        "price": 3.99,
+        "isbnNumber": "",
+        "ean": "4006381334440",
+        "vendor": "Staples"
+    },
+    {
+        "product_category": "notebooks",
+        "name": "Leather Journal",
+        "price": 14.99,
+        "isbnNumber": "",
+        "ean": "9781645172176",
+        "vendor": "Moleskine"
+    },
+    {
+        "product_category": "pens",
+        "name": "Ballpoint Pen",
+        "price": 1.29,
+        "isbnNumber": "",
+        "ean": "4007817308778",
+        "vendor": "Staedtler"
+    },
+    {
+        "product_category": "pens",
+        "name": "Fountain Pen",
+        "price": 24.99,
+        "isbnNumber": "",
+        "ean": "4902505502874",
+        "vendor": "Pilot"
+    },
+    {
+        "product_category": "pens",
+        "name": "Gel Pen Pack",
+        "price": 7.99,
+        "isbnNumber": "",
+        "ean": "4902505353568",
+        "vendor": "Pilot"
+    },
+    {
+        "product_category": "diaries",
+        "name": "Daily Planner 2024",
+        "price": 9.99,
+        "isbnNumber": "",
+        "ean": "9781441326011",
+        "vendor": "Paperchase"
+    },
+    {
+        "product_category": "diaries",
+        "name": "Bullet Journal",
+        "price": 12.99,
+        "isbnNumber": "",
+        "ean": "4004117515225",
+        "vendor": "Leuchtturm1917"
+    },
+    {
+        "product_category": "games",
+        "name": "Monopoly Classic",
+        "price": 19.99,
+        "isbnNumber": "",
+        "ean": "5010993470263",
+        "vendor": "Hasbro"
+    },
+    {
+        "product_category": "games",
+        "name": "Chess Set",
+        "price": 15.99,
+        "isbnNumber": "",
+        "ean": "4001504400010",
+        "vendor": "Classic Games"
+    },
+    {
+        "product_category": "games",
+        "name": "Uno Card Game",
+        "price": 9.99,
+        "isbnNumber": "",
+        "ean": "887961450698",
+        "vendor": "Mattel"
+    }
+]
